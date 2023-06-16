@@ -1,0 +1,11 @@
+[bridge]
+#ip-adress of the bridge
+ip=ip.of.the.bridge
+
+[lights]
+#names of the lights you want to use
+name = ['light1', 'light1', 'light3']
+#brightness of the lights
+brightness = [254, 254, 254]
+#optinal color value in hex
+colors = ['111111', 'dd8452', '111111']
